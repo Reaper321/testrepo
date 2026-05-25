@@ -11,6 +11,13 @@
 
 **Project description:** Hello world
 
+## Quick Start
+To quickly clone this repository, run:
+
+```bash
+git clone https://github.com/Reaper321/testrepo.git
+```
+
 ## Quick Links
 - [Repository](https://github.com/Reaper321/testrepo)
 - [Report Issues](https://github.com/Reaper321/testrepo/issues)
