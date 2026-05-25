@@ -1,0 +1,22 @@
+# Database Configuration
+development:
+  adapter: sqlite3
+  database: db/development.sqlite3
+  pool: 5
+  timeout: 5000
+
+production:
+  adapter: postgresql
+  host: localhost
+  port: 5432
+  database: testrepo_production
+  username: deploy
+  password: <%= ENV['DATABASE_PASSWORD'] %>
+  pool: 25
+  timeout: 10000
+
+test:
+  adapter: sqlite3
+  database: db/test.sqlite3
+  pool: 5
+  timeout: 5000
