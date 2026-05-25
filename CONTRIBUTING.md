@@ -1,18 +1,20 @@
 # Contributing to testrepo
 
-Thank you for considering contributing to this project! Please follow these guidelines:
+Thank you for your interest in contributing!
 
 ## How to Contribute
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
+- Fork the repository.
+- Create a new branch for your changes.
+- Make your changes with clear commit messages.
+- Open a pull request describing your changes.
+- Ensure all tests pass and adhere to code style guidelines.
 
 ## Code Style
-- Write clear, concise commit messages
-- Keep pull requests focused and descriptive
+- Follow standard code style conventions for this project.
+- Write clear and concise commit messages.
 
 ## Reporting Issues
-- Use GitHub issues for bugs or feature requests
-- Provide enough detail for reproduction
+- Use the issue tracker to report bugs or request features.
+- Include steps to reproduce and relevant details.
+
+Thank you for your contributions!
