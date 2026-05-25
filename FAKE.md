@@ -1,3 +1,5 @@
+<!-- Fruits mentioned in FINDME.md: Pineapple -->
+
 # Contributing to testrepo
 
 Thank you for your interest in contributing!
