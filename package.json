@@ -1,0 +1,16 @@
+{
+  "name": "task-manager-cli",
+  "version": "0.1.0",
+  "description": "A CLI task manager with colored output, progress bars and timeline.",
+  "main": "src/cli/task-manager.js",
+  "bin": {
+    "taskmanager": "src/cli/task-manager.js"
+  },
+  "dependencies": {},
+  "scripts": {
+    "start": "node src/cli/task-manager.js"
+  },
+  "keywords": ["cli", "tasks", "productivity", "timeline"],
+  "author": "Somi AI",
+  "license": "MIT"
+}
