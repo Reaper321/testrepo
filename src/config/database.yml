@@ -7,7 +7,7 @@ development:
 
 production:
   adapter: postgresql
-  host: localhost
+  host: production.example.com
   port: 5432
   database: testrepo_production
   username: deploy
