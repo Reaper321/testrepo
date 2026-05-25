@@ -22,6 +22,8 @@ git clone https://github.com/Reaper321/testrepo.git
 - [Repository](https://github.com/Reaper321/testrepo)
 - [Report Issues](https://github.com/Reaper321/testrepo/issues)
 - [Pull Requests](https://github.com/Reaper321/testrepo/pulls)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## How to contribute
 1. Fork the repo
