@@ -1,3 +1,5 @@
+<!-- Fruits mentioned in FINDME.md: Pineapple -->
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

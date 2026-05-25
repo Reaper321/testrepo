@@ -1,3 +1,5 @@
+<!-- Fruits mentioned in FINDME.md: Pineapple -->
+
 # testrepo
 
 Hello world
