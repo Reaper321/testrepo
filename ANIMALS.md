@@ -1,0 +1,22 @@
+# Animals
+
+- Lion
+- Tiger
+- Elephant
+- Giraffe
+- Zebra
+- Kangaroo
+- Panda
+- Koala
+- Dolphin
+- Whale
+- Eagle
+- Owl
+- Penguin
+- Crocodile
+- Turtle
+- Frog
+- Snake
+- Wolf
+- Bear
+- Fox
