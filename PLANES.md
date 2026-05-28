@@ -1,0 +1,22 @@
+# Planes
+
+- Boeing 737
+- Airbus A320
+- Boeing 747
+- Airbus A380
+- Cessna 172
+- Gulfstream G650
+- Lockheed Martin F-35 Lightning II
+- Boeing 787 Dreamliner
+- Airbus A350
+- Embraer E190
+- Bombardier Global 7500
+- Piper PA-28 Cherokee
+- Beechcraft King Air 350
+- Dassault Falcon 8X
+- SR-71 Blackbird
+- Concorde
+- Antonov An-225 Mriya
+- Lockheed C-130 Hercules
+- North American P-51 Mustang
+- McDonnell Douglas F-15 Eagle
